@@ -1,0 +1,1 @@
+this is a quick implementation of a distributed hash table-ish sort of thing in haskell. it's monstrously incomplete, and based mostly on Kazu's mighttpd module. it's on github mostly so i can get to it. Move along, citizen, nothing to see here.
